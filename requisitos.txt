@@ -1,0 +1,7 @@
+RF1  Registrar e iniciar sesión de estudiantes
+RF2  Gestionar beneficiarios (becarios y no becarios)
+RF3  Publicar el menú diario y semanal
+RF4  Reservar una ración en un turno y horario
+RF5  Controlar el aforo máximo por turno
+RF6  Calcular la tarifa y registrar el pago
+RF7  Emitir un ticket con código QR
